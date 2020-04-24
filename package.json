@@ -56,7 +56,7 @@
     ]
   },
   "build": {
-    "productName": "OCR http VIZRT vmesnik",
+    "productName": "LjubljanaTVDatalink",
     "appId": "",
     "files": [
       "dist/",
@@ -263,6 +263,7 @@
     "electron-log": "^4.0.0",
     "electron-updater": "^4.2.0",
     "history": "^4.10.1",
+    "node-fetch": "^2.6.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-hot-loader": "^4.12.18",
